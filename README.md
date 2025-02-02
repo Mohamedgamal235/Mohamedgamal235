@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
 <h3 align="center">Student at FCAI CU | Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
 
 - 🌱 I’m currently learning **Back end .NET**
 
@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedgamal235&show_icons=true&locale=en&layout=compact" alt="mohamedgamal235" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedgamal235&show_icons=true&locale=en" alt="mohamedgamal235" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohamedgamal235&show_icons=true&locale=en" alt="mohamedgamal235" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedgamal235&" alt="mohamedgamal235" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedgamal235&" alt="mohamedgamal235" /></p>
