@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
 
-- 🌱 I’m currently learning **Back end .NET**
+<!-- - 🌱 I’m currently learning **Back end .NET** -->
 
 - 📫 How to reach me **mohamedgamal200420042004@gmail.com**
 
