@@ -1,5 +1,6 @@
 <h1 align="center">Hello everyone ,I'm Mohamed Gamal</h1>
-<h3 align="center">Software Engineer | Student at FCAI CU | Competitive Programmer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software Engineer;Student at FCAI CU;Competitive Programmer&font=Fira+Code&size=24&color=7CFF5B&center=true" alt="Typing SVG" height="48"/>
+<br>
 <br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -62,7 +63,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+FCAI+CU;Competitive+Programmer;Back-end+.NET+Learner&font=Fira+Code&size=24&color=0969DA&center=true" alt="Typing SVG" height="48"/>
+
 
 <p align="center">
   <a href="https://github.com/Mohamedgamal235" target="_blank">
