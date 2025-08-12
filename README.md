@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
-<h3 align="center">Student at FCAI CU | Competitive Programmer</h3>
+<h1 align="center">Hello everyone ,I'm Mohamed Gamal</h1>
+<h3 align="center">Software Engineer | Student at FCAI CU | Competitive Programmer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
 
