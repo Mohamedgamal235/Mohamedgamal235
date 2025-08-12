@@ -21,7 +21,11 @@
 </div>
 
 <h3 align="left">📊 About me:</h3>
-
+<hr>
+<p>
+Senior Computer Science student at FCAI, Cairo University, with a strong foundation in problem-solving and algorithms <strong>(19th place in ECPC among my college teams)</strong>. Experienced in academic projects and assignments, with a focus on software development. I am a <strong>Backend Engineer</strong> specializing in building scalable and maintainable applications using <strong>.NET Core</strong>. Passionate about clean code, system design, and performance optimization. Continuously learning and exploring new technologies to solve real-world challenges. Seeking opportunities to contribute to innovative projects in collaborative environments.
+</p>
+<br>
 
 <h3 align="left">🧮 Problem Solving accounts:</h3>
 <hr>
