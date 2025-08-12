@@ -61,3 +61,11 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=vision-friendly-dark&hide_border=true" height="180px"/>
   </a>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+FCAI+CU;Competitive+Programmer;Back-end+.NET+Learner&font=Fira+Code&size=24&color=0969DA&center=true" alt="Typing SVG" height="48"/>
+
+<p align="center">
+  <a href="https://github.com/Mohamedgamal235" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=onedark" height="160px"/>
+  </a>
+</p>
