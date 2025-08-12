@@ -10,7 +10,7 @@
 <a href="www.linkedin.com/in/mohamedgamal25"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
+<hr>
 <h3 align="left">Problem Solving accounts:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/Gemmy23"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
@@ -18,7 +18,6 @@
 <a href="https://www.hackerrank.com/profile/mohamedgamal23"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-<br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
-<br>
 <hr>
 <h3 align="left">Version Controls:</h3>
 <p align="left">
@@ -41,7 +39,6 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<br>
 <hr>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamedgamal235&theme=vision-friendly-dark&show_icons=true" height="180px"/>
