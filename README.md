@@ -71,4 +71,6 @@
   </a>
 </p>
 
-![Contribution Snake](https://raw.githubusercontent.com/Mohamedgamal235/Mohamedgamal235/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohamedgamal235/Mohamedgamal235/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake - dark"/>
+</p>
