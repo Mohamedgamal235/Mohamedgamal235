@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone ,I'm Mohamed Gamal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Student+at+FCAI+CU;Competitive+Programmer&font=Fira+Code&size=24&color=7CFF5B&center=true&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+.NET+Engineer;Student+at+FCAI+CU;Competitive+Programmer&font=Fira+Code&size=24&color=7CFF5B&center=true&vCenter=true" alt="Typing SVG" />
 </p>
 <br>
 <div id="header" align="center">
