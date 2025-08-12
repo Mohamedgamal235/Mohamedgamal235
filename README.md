@@ -20,7 +20,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
 </div>
 
-<h3 align="left">Problem Solving accounts:</h3>
+
 
 <h3 align="left">Problem Solving accounts:</h3>
 <hr>
@@ -29,6 +29,7 @@
 <a href="https://leetcode.com/u/Mohamed_Gamal2/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 <a href="https://www.hackerrank.com/profile/mohamedgamal23"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,7 +45,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
-
+<br>
 
 <h3 align="left">Version Controls:</h3>
 <hr>
@@ -52,6 +53,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+  
 
 <hr>
 <p align="center">
