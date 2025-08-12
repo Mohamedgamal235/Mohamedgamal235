@@ -1,5 +1,9 @@
 <h1 align="center">Hello everyone ,I'm Mohamed Gamal</h1>
 <h3 align="center">Software Engineer | Student at FCAI CU | Competitive Programmer</h3>
+<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamedgamal25">
