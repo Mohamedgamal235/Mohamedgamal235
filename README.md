@@ -33,13 +33,13 @@
 
 
 
-<div>
-  <div style="display:inline-block">
+<div style="display:flex">
+  <div>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedgamal235&theme=vision-friendly-dark&show_icons=true) 
   </div>
-  <div style="display:inline-block">>
-  
+  <div >
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedgamal235&theme=vision-friendly-dark&layout=compact)
   </div>
 </div>
