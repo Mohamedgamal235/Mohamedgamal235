@@ -71,6 +71,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamedgamal235/Mohamedgamal235/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+![Contribution Snake](https://raw.githubusercontent.com/Mohamedgamal235/Mohamedgamal235/output/github-contribution-grid-snake.svg)
