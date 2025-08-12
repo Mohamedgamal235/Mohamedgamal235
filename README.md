@@ -69,6 +69,6 @@
 
 <p align="center">
   <a href="https://github.com/Mohamedgamal235" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=onedark" height="160px"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=juicyfresh" height="160px"/>
   </a>
 </p>
