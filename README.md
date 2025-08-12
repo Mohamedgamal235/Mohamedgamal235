@@ -20,19 +20,19 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
 </div>
 
-
-
-
-<hr>
 <h3 align="left">Problem Solving accounts:</h3>
+
+<h3 align="left">Problem Solving accounts:</h3>
+<hr>
 <p align="left">
 <a href="https://codeforces.com/profile/Gemmy23"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Mohamed_Gamal2/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 <a href="https://www.hackerrank.com/profile/mohamedgamal23"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-<hr>
+
 <h3 align="left">Languages and Tools:</h3>
+<hr>
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -45,8 +45,9 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
-<hr>
+
 <h3 align="left">Version Controls:</h3>
+<hr>
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
