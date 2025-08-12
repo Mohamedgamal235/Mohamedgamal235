@@ -65,10 +65,12 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/Mohamedgamal235" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=juicyfresh" height="160px"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohamedgamal235/Mohamedgamal235/output/dist/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
