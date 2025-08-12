@@ -33,16 +33,11 @@
 
 
 
-<div style="display:flex">
-  <div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedgamal235&theme=vision-friendly-dark&show_icons=true) 
-  </div>
-  <div >
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedgamal235&theme=vision-friendly-dark&layout=compact)
-  </div>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedgamal235&theme=vision-friendly-dark&show_icons=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedgamal235&theme=vision-friendly-dark&layout=compact" height="180px"/>
+</p>
 
 
 
