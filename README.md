@@ -1,14 +1,20 @@
 <h1 align="center">Hello everyone ,I'm Mohamed Gamal</h1>
 <h3 align="center">Software Engineer | Student at FCAI CU | Competitive Programmer</h3>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamedgamal25">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn "/>
+  </a>
+  <a href="https://discordapp.com/users/1026147595539714078">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord "/>
+  </a>
+  <a href="mailto:mohamedgamal200420042004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail "/>
+  </a>
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:mohamedgamal200420042004@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://discordapp.com/users/1026147595539714078"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/> </a>
-<a href="https://www.linkedin.com/in/mohamedgamal25"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-</p>
+
 
 <hr>
 <h3 align="left">Problem Solving accounts:</h3>
