@@ -20,9 +20,10 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
 </div>
 
+<h3 align="left">📊 About me:</h3>
 
 
-<h3 align="left">Problem Solving accounts:</h3>
+<h3 align="left">🧮 Problem Solving accounts:</h3>
 <hr>
 <p align="left">
 <a href="https://codeforces.com/profile/Gemmy23"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
@@ -32,7 +33,7 @@
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">📍 Languages and Tools:</h3>
 <hr>
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -47,13 +48,13 @@
 </p>
 <br>
 
-<h3 align="left">Version Controls:</h3>
+<h3 align="left">🚀 Version Controls:</h3>
 <hr>
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-  
+
 
 <hr>
 <p align="center">
