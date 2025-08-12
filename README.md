@@ -40,12 +40,13 @@
 </p>
 
 <hr>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamedgamal235&theme=vision-friendly-dark&show_icons=true" height="180px"/>
-  	&nbsp;	&nbsp;	&nbsp;	&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedgamal235&theme=vision-friendly-dark&layout=compact" height="180px"/>
 </p>
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=vision-friendly-dark&hide_border=true" height="180px"/>
+  </a>
+</p>
