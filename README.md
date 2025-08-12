@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamedgamal235/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>  
+  <img src="https://raw.githubusercontent.com/Mohamedgamal235/Mohamedgamal235/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
