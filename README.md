@@ -46,4 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedgamal235&theme=vision-friendly-dark&layout=compact" height="180px"/>
 </p>
 
-
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" /></a>
+</div>
