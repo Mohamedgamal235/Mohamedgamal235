@@ -68,13 +68,12 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=vision-friendly-dark&hide_border=true" height="180px"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedgamal235&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedgamal235&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
