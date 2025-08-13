@@ -68,8 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedgamal235&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedgamal235&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedgamal235&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
