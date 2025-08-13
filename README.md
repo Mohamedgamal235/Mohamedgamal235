@@ -74,9 +74,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=juicyfresh" height="160px"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
