@@ -67,9 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedgamal235&theme=vision-friendly-dark&layout=compact" height="180px"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
