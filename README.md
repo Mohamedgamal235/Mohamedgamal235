@@ -68,9 +68,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mohamedgamal235&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
