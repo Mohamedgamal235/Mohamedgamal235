@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mohamedgamal235&theme=vision-friendly-dark&hide_border=true" height="180px"/>
+    <img src="https://streak-stats.demolab.com/?user=Mohamedgamal235&theme=dark" height="180px"/>
   </a>
 </p>
 
