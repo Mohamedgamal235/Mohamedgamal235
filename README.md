@@ -8,13 +8,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamedgamal25">
+  <a href="https://www.linkedin.com/in/mohamedgamal25" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn "/>
   </a>
-  <a href="https://discordapp.com/users/1026147595539714078">
+  <a href="https://discordapp.com/users/1026147595539714078" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord "/>
   </a>
-  <a href="mailto:mohamedgamal200420042004@gmail.com">
+  <a href="mailto:mohamedgamal200420042004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail "/>
   </a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedgamal235&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamal235" /> </p>
@@ -30,9 +30,9 @@
 <h3 align="left">🧮 Problem Solving accounts:</h3>
 <hr>
 <p align="left">
-<a href="https://codeforces.com/profile/Gemmy23"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Mohamed_Gamal2/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-<a href="https://www.hackerrank.com/profile/mohamedgamal23"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Gemmy23" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Mohamed_Gamal2/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://www.hackerrank.com/profile/mohamedgamal23" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 <br>
 
