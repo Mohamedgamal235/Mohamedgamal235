@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7CFF5B&center=true&vCenter=true&width=650&lines=Backend+.NET+Engineer;Senior+Computer+Science+Student+at+Cairo+University;Competitive+Programmer+%7C+ECPC+19th+Place;Building+Scalable+%26+Maintainable+Systems" alt="Typing SVG" />
 
+[![Mohamedgamal235's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=Mohamedgamal235&theme=neon&style=aura)](https://www.gitskins.com/showcase/Mohamedgamal235?skin=studio)
+
 <br/>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Developer animation"/>
@@ -22,9 +24,11 @@
 
 <br/><br/>
 
+
 <img src="https://komarev.com/ghpvc/?username=Mohamedgamal235&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
+
 
 ---
 
@@ -137,26 +141,6 @@ I’m interested in backend engineering, system design, software architecture, A
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohamedgamal235&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Mohamedgamal235&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -172,3 +156,5 @@ I’m interested in backend engineering, system design, software architecture, A
 ### Thanks for visiting my profile 👨‍💻
 
 </div>
+
+
