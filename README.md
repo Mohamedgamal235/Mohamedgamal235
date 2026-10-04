@@ -145,10 +145,6 @@ I am especially interested in **backend engineering, system design, APIs, databa
 
 </div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=Mohamedgamal235&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117010678%3Fv%3D4&v=showcase-projects-3" alt="--- projects visual" />
-</p>
-
 <!-- ## 🐍 Contribution Activity
 
 <div align="center">
