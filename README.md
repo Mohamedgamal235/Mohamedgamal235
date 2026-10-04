@@ -31,7 +31,7 @@
 </a>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamedgamal235&label=Profile%20Views&color=7df9ff&style=for-the-badge)
+![Profile Views](https://visitcount.itsvg.in/api?id=Mohamedgamal235&label=Profile%20Views&icon=5&color=6&pretty=true)
 
 </div>
 
