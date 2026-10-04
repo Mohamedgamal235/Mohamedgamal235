@@ -12,7 +12,7 @@
 <p align="center">
   <img
     src="https://www.gitskins.com/api/section/chess?username=Mohamedgamal235&theme=neon&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117010678%3Fv%3D4"
-    width="70%"
+    width="65%"
     alt="Mohamed Gamal Chess Visual"
   />
 </p>
