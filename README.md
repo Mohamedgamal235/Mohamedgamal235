@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hello, I'm Mohamed Gamal
-
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=mohamedgamal235&theme=neon&role=Backend%20or%20systems%20engineer&location=Egypt%20-%20Cairo&v=readme-reference-2" width="100%" alt="Mohamed Gamal Ali profile banner" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,7 +12,7 @@
 <p align="center">
   <img
     src="https://www.gitskins.com/api/section/chess?username=Mohamedgamal235&theme=neon&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117010678%3Fv%3D4"
-    width="85%"
+    width="70%"
     alt="Mohamed Gamal Chess Visual"
   />
 </p>
