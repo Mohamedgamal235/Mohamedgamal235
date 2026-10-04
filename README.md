@@ -2,15 +2,25 @@
 
 # 👋 Hello, I'm Mohamed Gamal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7CFF5B&center=true&vCenter=true&width=650&lines=Backend+.NET+Engineer;Senior+Computer+Science+Student+at+Cairo+University;Competitive+Programmer+%7C+ECPC+19th+Place;Building+Scalable+%26+Maintainable+Systems" alt="Typing SVG" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=mohamedgamal235&theme=neon&role=Backend%20or%20systems%20engineer&location=Egypt%20-%20Cairo&v=readme-reference-2" width="100%" alt="Mohamed Gamal Ali profile banner" />
 
-[![Mohamedgamal235's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=Mohamedgamal235&theme=neon&style=aura)](https://www.gitskins.com/showcase/Mohamedgamal235?skin=studio)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Software%20Engineer;Full-Stack%20.NET%20Developer;Competitive%20Programmer"
+    alt="Typing SVG"
+  />
+</a>
 
-<br/>
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/chess?username=Mohamedgamal235&theme=neon&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117010678%3Fv%3D4"
+    width="85%"
+    alt="Mohamed Gamal Chess Visual"
+  />
+</p>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Developer animation"/>
+<!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Developer animation"/> -->
 
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/mohamedgamal23" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,45 +32,28 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<br/><br/>
-
 
 <img src="https://komarev.com/ghpvc/?username=Mohamedgamal235&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
 
-
----
+<div align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=mohamedgamal235&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" />
+</div>
 
 ## 💫 About Me
 
-Senior Computer Science student at **Cairo University** with a solid background in **problem-solving and algorithms**, including a **19th-place ECPC achievement**. I’m a **Backend Engineer** focused on building scalable, maintainable applications with **.NET / ASP.NET Core**, clean code, solid architecture, and optimized performance.
+**Computer Science graduate from Cairo University** with a strong background in **problem-solving, algorithms, and backend development**, including a **19th-place ECPC achievement**. I focus on building **scalable, maintainable, and production-ready applications** using **C#, .NET, ASP.NET Core, SQL Server, Entity Framework Core, and REST APIs**, with strong attention to clean code, performance, and software architecture.
 
-I’m interested in backend engineering, system design, software architecture, APIs, databases, and building production-oriented systems. I continuously learn new technologies and enjoy contributing to collaborative, real-world projects.
+I am especially interested in **backend engineering, system design, APIs, databases, and distributed systems**. I have hands-on experience with **CQRS, Clean Architecture, Vertical Slice Architecture, Minimal APIs, RabbitMQ, MassTransit, Docker, and microservices**, and I enjoy turning complex technical problems into **reliable, practical software solutions**.
 
-- 🔭 **I’m currently working on**  
-  Building scalable backend applications with .NET Core and improving my software architecture skills.
-
-- 👯 **I’m looking to collaborate on**  
-  Open-source .NET projects, backend systems, APIs, and real-world software solutions.
-
-- 🤝 **I’m looking for help with**  
-  Advanced backend architecture, distributed systems, cloud architecture, and large-scale system design.
-
-- 🌱 **I’m currently learning**  
-  Advanced .NET, System Design, CQRS, Vertical Slice Architecture, Minimal APIs, Dapper, and performance optimization.
-
-- 💬 **Ask me about**  
-  C#, .NET Core, ASP.NET Core, REST APIs, SQL Server, EF Core, Algorithms, Problem Solving, and Backend Architecture.
-
-- ⚡ **Fun fact**  
-  Competitive programming shaped the way I approach complex software problems and turn them into clean, efficient solutions.
-
----
+<div align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=mohamedgamal235&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" />
+</div>
 
 ## 🧮 Problem Solving
 
-<p align="left">
+<p align="center">
   <a href="https://codeforces.com/profile/Gemmy23" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
@@ -72,11 +65,12 @@ I’m interested in backend engineering, system design, software architecture, A
   </a>
 </p>
 
----
-
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### Backend & Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
@@ -86,6 +80,7 @@ I’m interested in backend engineering, system design, software architecture, A
 </p>
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -97,6 +92,7 @@ I’m interested in backend engineering, system design, software architecture, A
 </p>
 
 ### Database & Data
+
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="EF Core"/>
@@ -107,12 +103,14 @@ I’m interested in backend engineering, system design, software architecture, A
 </p>
 
 ### Frontend & UI
+
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
 
 ### Tools, DevOps & Deployment
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -123,38 +121,62 @@ I’m interested in backend engineering, system design, software architecture, A
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify"/>
 </p>
 
----
+</div>
+
+<div align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=mohamedgamal235&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Mohamedgamal235&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedgamal235&show_icons=true&hide_border=true&title_color=7df9ff&icon_color=00ffa3&text_color=c9d4e0&bg_color=0d1117" alt="GitHub stats" />
 
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mohamedgamal235&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedgamal235&layout=compact&hide_border=true&langs_count=8&title_color=7df9ff&text_color=c9d4e0&bg_color=0d1117" alt="Top languages" />
 
-<br/><br/>
+<img
+  height="170"
+  src="https://streak-stats.demolab.com/?user=Mohamedgamal235&hide_border=true&background=0d1117&ring=7df9ff&fire=00ffa3&currStreakNum=c9d4e0&sideNums=c9d4e0&currStreakLabel=7df9ff&sideLabels=c9d4e0&dates=c9d4e0"
+  alt="GitHub Streak"
+/>
 
-<img src="https://streak-stats.demolab.com/?user=Mohamedgamal235&theme=dark&hide_border=false" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://www.gitskins.com/showcase/space-shooter.gif" alt="Mohamed Gamal Ali contribution Space Shooter" />
+</p>
 
 </div>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=Mohamedgamal235&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F117010678%3Fv%3D4&v=showcase-projects-3" alt="--- projects visual" />
+</p>
 
-## 🐍 Contribution Activity
+<!-- ## 🐍 Contribution Activity
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Mohamedgamal235/Mohamedgamal235/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake"/>
 
-</div>
-
----
+</div> -->
 
 <div align="center">
 
-### Thanks for visiting my profile 👨‍💻
+## 🤝 Let's Build Something Meaningful
+
+I enjoy building **reliable software that solves real problems**. If you value **clean architecture, performance, and practical engineering**, let’s connect.
+
+<a href="https://mohamed-gamal255.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="View My Portfolio" />
+</a>
+<a href="mailto:mohamedgamal200420042004@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email_Me-7B5CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"
+    alt="Email Me"
+  />
+</a>
+
+<br/><br/>
+
+**⭐ Mohamed Gamal Ali** — Building scalable systems, solving hard problems, and shipping with purpose.
 
 </div>
-
-
