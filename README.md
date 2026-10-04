@@ -31,7 +31,7 @@
 </a>
 
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Mohamedgamal235&label=Profile%20Views&icon=5&color=6&pretty=true)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mohamedgamal235.Mohamedgamal235)
 
 </div>
 
