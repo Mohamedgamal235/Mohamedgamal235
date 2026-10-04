@@ -26,12 +26,12 @@
 <a href="https://discord.com/users/1026147595539714078" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="mailto:mohamedgamal200420042004@gmail.com">
+<a href="mailto:mohamedgamal200420042004@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 
-<img src="https://komarev.com/ghpvc/?username=Mohamedgamal235&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamedgamal235&label=Profile%20Views&color=7df9ff&style=for-the-badge)
 
 </div>
 
